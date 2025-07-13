@@ -24,6 +24,3 @@ Thumbs.db
 
 # JARs (optional)
 *.jar
-
-# screenshots or output directories (optional)
-/screenshots/
