@@ -1,0 +1,29 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Compiled class files
+*.class
+
+# Output folders
+/bin/
+/target/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE specific folders
+.idea/
+*.iml
+
+# JARs (optional)
+*.jar
+
+# screenshots or output directories (optional)
+/screenshots/
